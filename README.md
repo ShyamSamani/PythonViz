@@ -1,2 +1,2 @@
 # PythonViz
-Code for common Python visualisation libraries 
+Code for common (basic) Python visualisation libraries 
